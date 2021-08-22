@@ -14,31 +14,23 @@ export default function Portfolio() {
             </ul>
             <div className="container">
                 <div className="item">
-                    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.interoffice.de%2Finfrastrukturprojekte%2Feinwands-und-erwiderungsmanagement%2F&psig=AOvVaw3CYdtXjnxKTCv3HO0IPemq&ust=1629675393791000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJDGy4ukw_ICFQAAAAAdAAAAABAa" alt="" />
+                    <img src="https://cdn2.vectorstock.com/i/1000x1000/00/41/work-from-home-remote-working-with-a-business-vector-31080041.jpg" alt="" />
                     <h3>EWM</h3>
                 </div>
                 <div className="item">
-                    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.interoffice.de%2Finfrastrukturprojekte%2Feinwands-und-erwiderungsmanagement%2F&psig=AOvVaw3CYdtXjnxKTCv3HO0IPemq&ust=1629675393791000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJDGy4ukw_ICFQAAAAAdAAAAABAa" alt="" />
+                    <img src="https://cdn2.vectorstock.com/i/1000x1000/00/41/work-from-home-remote-working-with-a-business-vector-31080041.jpg" alt="" />
                     <h3>EWM</h3>
                 </div>
                 <div className="item">
-                    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.interoffice.de%2Finfrastrukturprojekte%2Feinwands-und-erwiderungsmanagement%2F&psig=AOvVaw3CYdtXjnxKTCv3HO0IPemq&ust=1629675393791000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJDGy4ukw_ICFQAAAAAdAAAAABAa" alt="" />
+                    <img src="https://cdn2.vectorstock.com/i/1000x1000/00/41/work-from-home-remote-working-with-a-business-vector-31080041.jpg" alt="" />
                     <h3>EWM</h3>
                 </div>
                 <div className="item">
-                    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.interoffice.de%2Finfrastrukturprojekte%2Feinwands-und-erwiderungsmanagement%2F&psig=AOvVaw3CYdtXjnxKTCv3HO0IPemq&ust=1629675393791000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJDGy4ukw_ICFQAAAAAdAAAAABAa" alt="" />
+                    <img src="https://cdn2.vectorstock.com/i/1000x1000/00/41/work-from-home-remote-working-with-a-business-vector-31080041.jpg" alt="" />
                     <h3>EWM</h3>
                 </div>
                 <div className="item">
-                    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.interoffice.de%2Finfrastrukturprojekte%2Feinwands-und-erwiderungsmanagement%2F&psig=AOvVaw3CYdtXjnxKTCv3HO0IPemq&ust=1629675393791000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJDGy4ukw_ICFQAAAAAdAAAAABAa" alt="" />
-                    <h3>EWM</h3>
-                </div>
-                <div className="item">
-                    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.interoffice.de%2Finfrastrukturprojekte%2Feinwands-und-erwiderungsmanagement%2F&psig=AOvVaw3CYdtXjnxKTCv3HO0IPemq&ust=1629675393791000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJDGy4ukw_ICFQAAAAAdAAAAABAa" alt="" />
-                    <h3>EWM</h3>
-                </div>
-                <div className="item">
-                    <img src="https://98webhost.net/wp-content/uploads/2021/04/top-4-enterprise-application-integration-benefits.jpg" alt="" />
+                    <img src="https://cdn2.vectorstock.com/i/1000x1000/00/41/work-from-home-remote-working-with-a-business-vector-31080041.jpg" alt="" />
                     <h3>EWM</h3>
                 </div>
             </div>
