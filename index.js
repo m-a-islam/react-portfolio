@@ -16,15 +16,10 @@ function UnorderList() {
 }
 const page = (
     <div>
-        <h1>My Awsome website in React</h1>
-        <h3>Reason I love React</h3>
-        <ol>
-            <li>Hello</li>
-            <li>There</li>
-            <li>thee</li>
-        </ol>
+        <img src="./react-logo.png" width="40px" alt=""/>
     </div>
 )
+
 ReactDOM.render(
     page,
     document.getElementById("root")
