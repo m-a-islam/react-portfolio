@@ -7,20 +7,19 @@ function MainContent() {
 
 function UnorderList() {
     return (
-        <ul>
-            <li>Pricing</li>
-            <li>about</li>
-            <li>Contact</li>
-        </ul>
+        <div>
+            <img src="./react-logo.png" width="40px" alt=""/>
+            <ul>
+                <li>Pricing</li>
+                <li>about</li>
+                <li>Contact</li>
+            </ul>
+        </div>
     )
 }
-const page = (
-    <div>
-        <img src="./react-logo.png" width="40px" alt=""/>
-    </div>
-)
+
 
 ReactDOM.render(
-    page,
+    <UnorderList />,
     document.getElementById("root")
 )
