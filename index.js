@@ -13,15 +13,7 @@ function MainContent() {
     )
 }
 
-function Header() {
-    return (
-        <header>
-            <nav>
-                <img src="./react-logo.png" width="40px" alt=""/>
-            </nav>
-        </header>
-    )
-}
+
 
 function Footer() {
     return (
